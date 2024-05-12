@@ -4,6 +4,10 @@
 
 Chegou cansado, abriu a geladeira e se deparou com um monte de ingredientes aleatórios? Não tema, a **Hungry Witch** vai te salvar! Basta você informar os ingredientes e nós vamos te sugerir uma deliciosa receita em segundos, como num passe de mágica! 🎩🔮🍳
 
+## Preview
+
+[preview.webm](https://github.com/ricardospalves/alura-hungry-witch/assets/7684963/cec52900-eca4-40b6-9f3c-a4b317e9d44b)
+
 ## O que é a Hungry Witch?
 
 A **Hungry Witch** é a sua amiga mágica na cozinha! Este aplicativo incrível e inovador usa inteligência artificial para transformar seus ingredientes aleatórios em deliciosas receitas. Não precisa mais quebrar a cabeça tentando descobrir o que cozinhar - deixe a **Hungry Witch** fazer isso por você!
@@ -17,6 +21,12 @@ A **Hungry Witch** é a sua amiga mágica na cozinha! Este aplicativo incrível 
 - **Facilidade:** Nunca foi tão fácil encontrar uma receita adequada aos ingredientes que você tem.
 - **Criatividade:** Deixe a bruxinha surpreendê-lo com combinações de ingredientes que você nunca imaginou!
 - **Economize Tempo:** Chega de perder tempo procurando por receitas. Com a **Hungry Witch**, você estará cozinhando em minutos.
+
+## Capturas de tela
+
+![Captura de tela](https://github.com/ricardospalves/alura-hungry-witch/assets/7684963/dd684dd1-7a44-4aea-b05e-1c3f4d10972e)
+
+![Captura de tela](https://github.com/ricardospalves/alura-hungry-witch/assets/7684963/df179b0e-f31d-41af-8071-29297dacc697)
 
 ## Licença
 
