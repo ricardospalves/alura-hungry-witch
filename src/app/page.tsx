@@ -3,13 +3,9 @@
 import { useId, useState } from "react";
 import { GoogleGenerativeAI } from "@google/generative-ai";
 import { AI_INSTRUCTION } from "~/constants/aiInstruction";
-import Markdown from "react-markdown";
-import style from "./markdown.module.css";
 import { VscLoading } from "react-icons/vsc";
 import { Header } from "~/components/Header/Header";
-
-const INITIAL_MESSAGE =
-  "Que tal me dizer quais ingredientes você tem em casa, e eu crio uma receita deliciosa para você? 🥕🫑🧅🧄.";
+import { AiMessage } from "~/components/AiMessage/AiMessage";
 
 const genAI = new GoogleGenerativeAI(process.env.NEXT_PUBLIC_API_KEY!);
 const model = genAI.getGenerativeModel({
@@ -47,11 +43,7 @@ export default function Home() {
 
       <main className="flex flex-col grow h-[calc(100vh-3rem)] border-t border-neutral-500">
         <div className="max-w-3xl w-full mx-auto overflow-auto p-2">
-          <div className="p-4 rounded bg-neutral-100 border border-neutral-300">
-            <Markdown className={style.markdown}>
-              {responseData || INITIAL_MESSAGE}
-            </Markdown>
-          </div>
+          <AiMessage>{responseData}</AiMessage>
         </div>
 
         <form
