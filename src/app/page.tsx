@@ -6,6 +6,7 @@ import { AI_INSTRUCTION } from "~/constants/aiInstruction";
 import Markdown from "react-markdown";
 import style from "./markdown.module.css";
 import { VscLoading } from "react-icons/vsc";
+import { Header } from "~/components/Header/Header";
 
 const INITIAL_MESSAGE =
   "Que tal me dizer quais ingredientes você tem em casa, e eu crio uma receita deliciosa para você? 🥕🫑🧅🧄.";
@@ -42,11 +43,7 @@ export default function Home() {
 
   return (
     <div className="flex flex-col h-screen overflow-hidden">
-      <header className="shrink-0 py-2">
-        <div className="max-w-5xl mx-auto">
-          <h1 className="text-2xl font-bold">✨🧙‍♀️ Hungry Witch</h1>
-        </div>
-      </header>
+      <Header />
 
       <main className="flex flex-col grow h-[calc(100vh-3rem)] border-t border-neutral-500">
         <div className="max-w-3xl w-full mx-auto overflow-auto p-2">
