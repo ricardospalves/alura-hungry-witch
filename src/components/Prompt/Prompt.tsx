@@ -45,7 +45,7 @@ export const Prompt = () => {
 
   return (
     <form
-      className=" shrink-0 mt-auto py-2 border-t border-neutral-500"
+      className=" shrink-0 mt-auto py-2 border-t border-neutral-500 px-1"
       onSubmit={handleFormSubmit}
     >
       <div className="max-w-3xl w-full mx-auto flex items-end gap-2">
