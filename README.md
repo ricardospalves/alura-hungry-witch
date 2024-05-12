@@ -4,6 +4,15 @@
 
 Chegou cansado, abriu a geladeira e se deparou com um monte de ingredientes aleatórios? Não tema, a **Hungry Witch** vai te salvar! Basta você informar os ingredientes e nós vamos te sugerir uma deliciosa receita em segundos, como num passe de mágica! 🎩🔮🍳
 
+## Tabela de conteúdos
+
+- [Preview](#preview)
+- [O que é a Hungry Witch?](#o-que-é-a-hungry-witch)
+- [Como Funciona?](#como-funciona)
+- [Por que Usar a Hungry Witch?](#por-que-usar-a-hungry-witch)
+- [Capturas de tela](#capturas-de-tela)
+- [Licença](#licença)
+
 ## Preview
 
 [preview.webm](https://github.com/ricardospalves/alura-hungry-witch/assets/7684963/cec52900-eca4-40b6-9f3c-a4b317e9d44b)
