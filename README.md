@@ -1,7 +1,5 @@
 # ✨🧙‍♀️ Hungry Witch
 
-[**🌐 Acesse o Hungry Witch**](https://hungry-witch.vercel.app/)
-
 Chegou cansado, abriu a geladeira e se deparou com um monte de ingredientes aleatórios? Não tema, a **Hungry Witch** vai te salvar! Basta você informar os ingredientes e nós vamos te sugerir uma deliciosa receita em segundos, como num passe de mágica! 🎩🔮🍳
 
 ## Tabela de conteúdos
